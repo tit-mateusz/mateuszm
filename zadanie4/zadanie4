@@ -1,1 +1,12 @@
-kks
+<!doctype html>
+<html>
+     <head>
+          <meta charset="UTF-8" />
+          <title>Mateusz Mietlicki</title>
+		  <link rel="stylesheet" href="style.css" type="Zadanie" />
+     </head>
+	 <body>
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<p>Witam
+			<marquee bgcolor="#C0C0C0" ;behavior="alternate"> Animacja tekstu </marquee>
+     </body>
